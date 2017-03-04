@@ -1,4 +1,5 @@
 import tensorflow,V
+git@github.com:spades-k/vimset.git,v
 limain,v
 module,v
 Plug  'Valloric/YouCompleteMe',V

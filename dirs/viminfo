@@ -14,16 +14,22 @@
 $
 
 # Command Line History (newest to oldest):
+:q
+|2,0,1488608178,,"q"
+:PluginInstall
+|2,0,1488605148,,"PluginInstall"
+:help
+|2,0,1488605002,,"help"
+:?
+|2,0,1488604999,,"?"
+:NerdTree
+|2,0,1488604989,,"NerdTree"
+:nerdtree
+|2,0,1488604979,,"nerdtree"
+:wq
+|2,0,1488608015,,"wq"
 :NREDTree
 |2,0,1488605891,,"NREDTree"
-:NerdTree
-|2,0,1488605844,,"NerdTree"
-:nerdtree
-|2,0,1488605833,,"nerdtree"
-:wq
-|2,0,1488606697,,"wq"
-:q
-|2,0,1488606117,,"q"
 :NERDTreeToggle
 |2,0,1488605976,,"NERDTreeToggle"
 :PlugInstall
@@ -44,9 +50,9 @@ $
 # Debug Line History (newest to oldest):
 
 # Registers:
-""1	LINE	0
+"1	LINE	0
 	import tensorflow
-|3,1,1,1,1,0,1488606069,"import tensorflow"
+|3,0,1,1,1,0,1488606069,"import tensorflow"
 "2	CHAR	0
 	module
 	
@@ -56,36 +62,78 @@ $
 |3,0,3,1,1,0,1488605803,"Plug  'Valloric/YouCompleteMe'"
 
 # File marks:
-'0  23  0  ~/.vimrc
-|4,48,23,0,1488607179,"~/.vimrc"
-'1  5  3  ~/.vim/.gitignore
-|4,49,5,3,1488606697,"~/.vim/.gitignore"
-'2  31  0  ~/NERD_tree_1
-|4,50,31,0,1488606117,"~/NERD_tree_1"
-'3  96  0  ~/.vimrc
-|4,51,96,0,1488605807,"~/.vimrc"
-'4  96  0  ~/.vimrc
-|4,52,96,0,1488605807,"~/.vimrc"
-'5  95  4  ~/.vimrc
-|4,53,95,4,1488605730,"~/.vimrc"
-'6  95  4  ~/.vimrc
-|4,54,95,4,1488605730,"~/.vimrc"
+'0  1  0  ~/Desktop/readme.cc
+|4,48,1,0,1488608167,"~/Desktop/readme.cc"
+'1  18  23  ~/.vim/vim.sh
+|4,49,18,23,1488608015,"~/.vim/vim.sh"
+'2  23  0  ~/.vimrc
+|4,50,23,0,1488607179,"~/.vimrc"
+'3  5  3  ~/.vim/.gitignore
+|4,51,5,3,1488606697,"~/.vim/.gitignore"
+'4  31  0  ~/NERD_tree_1
+|4,52,31,0,1488606117,"~/NERD_tree_1"
+'5  96  0  ~/.vimrc
+|4,53,96,0,1488605807,"~/.vimrc"
+'6  96  0  ~/.vimrc
+|4,54,96,0,1488605807,"~/.vimrc"
 '7  95  4  ~/.vimrc
 |4,55,95,4,1488605730,"~/.vimrc"
 '8  95  4  ~/.vimrc
 |4,56,95,4,1488605730,"~/.vimrc"
+'9  95  4  ~/.vimrc
+|4,57,95,4,1488605730,"~/.vimrc"
 
 # Jumplist (newest first):
+-'  1  0  ~/Desktop/readme.cc
+|4,39,1,0,1488608167,"~/Desktop/readme.cc"
+-'  18  23  ~/.vim/vim.sh
+|4,39,18,23,1488608015,"~/.vim/vim.sh"
+-'  1  0  ~/.vim/vim.sh
+|4,39,1,0,1488607990,"~/.vim/vim.sh"
+-'  23  0  ~/.vimrc
+|4,39,23,0,1488607179,"~/.vimrc"
 -'  23  0  ~/.vimrc
 |4,39,23,0,1488607179,"~/.vimrc"
 -'  5  3  ~/.vim/.gitignore
 |4,39,5,3,1488606697,"~/.vim/.gitignore"
+-'  5  3  ~/.vim/.gitignore
+|4,39,5,3,1488606697,"~/.vim/.gitignore"
+-'  5  3  ~/.vim/.gitignore
+|4,39,5,3,1488606697,"~/.vim/.gitignore"
+-'  1  0  ~/.vim/.gitignore
+|4,39,1,0,1488606585,"~/.vim/.gitignore"
+-'  1  0  ~/.vim/.gitignore
+|4,39,1,0,1488606585,"~/.vim/.gitignore"
 -'  1  0  ~/.vim/.gitignore
 |4,39,1,0,1488606585,"~/.vim/.gitignore"
 -'  31  0  ~/NERD_tree_1
 |4,39,31,0,1488606117,"~/NERD_tree_1"
 -'  31  0  ~/NERD_tree_1
 |4,39,31,0,1488606117,"~/NERD_tree_1"
+-'  31  0  ~/NERD_tree_1
+|4,39,31,0,1488606117,"~/NERD_tree_1"
+-'  31  0  ~/NERD_tree_1
+|4,39,31,0,1488606117,"~/NERD_tree_1"
+-'  31  0  ~/NERD_tree_1
+|4,39,31,0,1488606117,"~/NERD_tree_1"
+-'  31  0  ~/NERD_tree_1
+|4,39,31,0,1488606117,"~/NERD_tree_1"
+-'  55  2  ~/NERD_tree_1
+|4,39,55,2,1488606004,"~/NERD_tree_1"
+-'  1  0  ~/NERD_tree_1
+|4,39,1,0,1488606004,"~/NERD_tree_1"
+-'  55  2  ~/NERD_tree_1
+|4,39,55,2,1488606004,"~/NERD_tree_1"
+-'  1  0  ~/NERD_tree_1
+|4,39,1,0,1488606004,"~/NERD_tree_1"
+-'  55  2  ~/NERD_tree_1
+|4,39,55,2,1488606004,"~/NERD_tree_1"
+-'  1  0  ~/NERD_tree_1
+|4,39,1,0,1488606004,"~/NERD_tree_1"
+-'  55  2  ~/NERD_tree_1
+|4,39,55,2,1488606004,"~/NERD_tree_1"
+-'  1  0  ~/NERD_tree_1
+|4,39,1,0,1488606004,"~/NERD_tree_1"
 -'  55  2  ~/NERD_tree_1
 |4,39,55,2,1488606004,"~/NERD_tree_1"
 -'  1  0  ~/NERD_tree_1
@@ -98,6 +146,16 @@ $
 |4,39,1,0,1488605976,"~/tensorlayer/example/tutorial_mnist_simple.py"
 -'  1  0  ~/tensorlayer/example/tutorial_mnist_simple.py
 |4,39,1,0,1488605976,"~/tensorlayer/example/tutorial_mnist_simple.py"
+-'  1  0  ~/tensorlayer/example/tutorial_mnist_simple.py
+|4,39,1,0,1488605976,"~/tensorlayer/example/tutorial_mnist_simple.py"
+-'  1  0  ~/tensorlayer/example/tutorial_mnist_simple.py
+|4,39,1,0,1488605976,"~/tensorlayer/example/tutorial_mnist_simple.py"
+-'  1  0  ~/tensorlayer/example/tutorial_mnist_simple.py
+|4,39,1,0,1488605976,"~/tensorlayer/example/tutorial_mnist_simple.py"
+-'  1  0  ~/tensorlayer/example/tutorial_mnist_simple.py
+|4,39,1,0,1488605976,"~/tensorlayer/example/tutorial_mnist_simple.py"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1488605811,"~/.vimrc"
 -'  1  0  ~/.vimrc
 |4,39,1,0,1488605811,"~/.vimrc"
 -'  96  0  ~/.vimrc
@@ -110,6 +168,40 @@ $
 |4,39,96,0,1488605807,"~/.vimrc"
 -'  96  0  ~/.vimrc
 |4,39,96,0,1488605807,"~/.vimrc"
+-'  96  0  ~/.vimrc
+|4,39,96,0,1488605807,"~/.vimrc"
+-'  96  0  ~/.vimrc
+|4,39,96,0,1488605807,"~/.vimrc"
+-'  96  0  ~/.vimrc
+|4,39,96,0,1488605807,"~/.vimrc"
+-'  96  0  ~/.vimrc
+|4,39,96,0,1488605807,"~/.vimrc"
+-'  96  0  ~/.vimrc
+|4,39,96,0,1488605807,"~/.vimrc"
+-'  96  0  ~/.vimrc
+|4,39,96,0,1488605807,"~/.vimrc"
+-'  96  0  ~/.vimrc
+|4,39,96,0,1488605807,"~/.vimrc"
+-'  96  0  ~/.vimrc
+|4,39,96,0,1488605807,"~/.vimrc"
+-'  96  0  ~/.vimrc
+|4,39,96,0,1488605807,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1488605789,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1488605789,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1488605789,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1488605789,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1488605789,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1488605789,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1488605789,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1488605789,"~/.vimrc"
 -'  1  0  ~/.vimrc
 |4,39,1,0,1488605789,"~/.vimrc"
 -'  1  0  ~/.vimrc
@@ -144,84 +236,65 @@ $
 |4,39,95,4,1488605730,"~/.vimrc"
 -'  95  4  ~/.vimrc
 |4,39,95,4,1488605730,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1488605459,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1488605459,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1488605459,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1488605459,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1488605459,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1488605459,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1488605459,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1488605459,"~/.vimrc"
--'  1  0  ~/[Plugins]
-|4,39,1,0,1488604969,"~/[Plugins]"
--'  2  0  ~/[Plugins]
-|4,39,2,0,1488604969,"~/[Plugins]"
--'  5  0  ~/[Plugins]
-|4,39,5,0,1488604969,"~/[Plugins]"
--'  1  0  ~/[Plugins]
-|4,39,1,0,1488604969,"~/[Plugins]"
--'  2  0  ~/[Plugins]
-|4,39,2,0,1488604969,"~/[Plugins]"
--'  5  0  ~/[Plugins]
-|4,39,5,0,1488604969,"~/[Plugins]"
--'  1  0  ~/[Plugins]
-|4,39,1,0,1488604969,"~/[Plugins]"
--'  2  0  ~/[Plugins]
-|4,39,2,0,1488604969,"~/[Plugins]"
--'  5  0  ~/[Plugins]
-|4,39,5,0,1488604969,"~/[Plugins]"
--'  1  0  ~/[Plugins]
-|4,39,1,0,1488604969,"~/[Plugins]"
--'  2  0  ~/[Plugins]
-|4,39,2,0,1488604969,"~/[Plugins]"
--'  5  0  ~/[Plugins]
-|4,39,5,0,1488604969,"~/[Plugins]"
--'  1  0  ~/[Plugins]
-|4,39,1,0,1488604969,"~/[Plugins]"
--'  2  0  ~/[Plugins]
-|4,39,2,0,1488604969,"~/[Plugins]"
--'  5  0  ~/[Plugins]
-|4,39,5,0,1488604969,"~/[Plugins]"
--'  1  0  ~/[Plugins]
-|4,39,1,0,1488604969,"~/[Plugins]"
--'  2  0  ~/[Plugins]
-|4,39,2,0,1488604969,"~/[Plugins]"
--'  5  0  ~/[Plugins]
-|4,39,5,0,1488604969,"~/[Plugins]"
--'  1  0  ~/[Plugins]
-|4,39,1,0,1488604969,"~/[Plugins]"
--'  2  0  ~/[Plugins]
-|4,39,2,0,1488604969,"~/[Plugins]"
--'  5  0  ~/[Plugins]
-|4,39,5,0,1488604969,"~/[Plugins]"
--'  1  0  ~/[Plugins]
-|4,39,1,0,1488604969,"~/[Plugins]"
--'  2  0  ~/[Plugins]
-|4,39,2,0,1488604969,"~/[Plugins]"
--'  5  0  ~/[Plugins]
-|4,39,5,0,1488604969,"~/[Plugins]"
--'  1  0  ~/[Plugins]
-|4,39,1,0,1488604969,"~/[Plugins]"
--'  2  0  ~/[Plugins]
-|4,39,2,0,1488604969,"~/[Plugins]"
--'  5  0  ~/[Plugins]
-|4,39,5,0,1488604969,"~/[Plugins]"
--'  1  0  ~/[Plugins]
-|4,39,1,0,1488604969,"~/[Plugins]"
--'  2  0  ~/[Plugins]
-|4,39,2,0,1488604969,"~/[Plugins]"
--'  5  0  ~/[Plugins]
-|4,39,5,0,1488604969,"~/[Plugins]"
+-'  95  4  ~/.vimrc
+|4,39,95,4,1488605730,"~/.vimrc"
+-'  95  4  ~/.vimrc
+|4,39,95,4,1488605730,"~/.vimrc"
+-'  95  4  ~/.vimrc
+|4,39,95,4,1488605730,"~/.vimrc"
+-'  95  4  ~/.vimrc
+|4,39,95,4,1488605730,"~/.vimrc"
+-'  95  4  ~/.vimrc
+|4,39,95,4,1488605730,"~/.vimrc"
+-'  95  4  ~/.vimrc
+|4,39,95,4,1488605730,"~/.vimrc"
+-'  95  4  ~/.vimrc
+|4,39,95,4,1488605730,"~/.vimrc"
+-'  95  4  ~/.vimrc
+|4,39,95,4,1488605730,"~/.vimrc"
+-'  95  4  ~/.vimrc
+|4,39,95,4,1488605730,"~/.vimrc"
+-'  95  4  ~/.vimrc
+|4,39,95,4,1488605730,"~/.vimrc"
+-'  95  4  ~/.vimrc
+|4,39,95,4,1488605730,"~/.vimrc"
+-'  95  4  ~/.vimrc
+|4,39,95,4,1488605730,"~/.vimrc"
+-'  95  4  ~/.vimrc
+|4,39,95,4,1488605730,"~/.vimrc"
+-'  95  4  ~/.vimrc
+|4,39,95,4,1488605730,"~/.vimrc"
+-'  95  4  ~/.vimrc
+|4,39,95,4,1488605730,"~/.vimrc"
+-'  95  4  ~/.vimrc
+|4,39,95,4,1488605730,"~/.vimrc"
+-'  95  4  ~/.vimrc
+|4,39,95,4,1488605730,"~/.vimrc"
+-'  95  4  ~/.vimrc
+|4,39,95,4,1488605730,"~/.vimrc"
+-'  95  4  ~/.vimrc
+|4,39,95,4,1488605730,"~/.vimrc"
+-'  95  4  ~/.vimrc
+|4,39,95,4,1488605730,"~/.vimrc"
+-'  95  4  ~/.vimrc
+|4,39,95,4,1488605730,"~/.vimrc"
+-'  95  4  ~/.vimrc
+|4,39,95,4,1488605730,"~/.vimrc"
+-'  95  4  ~/.vimrc
+|4,39,95,4,1488605730,"~/.vimrc"
 
 # History of marks within files (newest to oldest):
+
+> ~/.vim/vim.sh
+	*	1488608014	0
+	"	18	23
+	^	18	24
+	.	18	24
+	+	18	24
+
+> ~/Desktop/readme.cc
+	*	1488606777	0
+	"	1	0
 
 > ~/.vim/.gitignore
 	*	1488606693	0
@@ -261,3 +334,7 @@ $
 	+	96	4
 	+	95	5
 	+	96	0
+
+> /usr/share/vim/vim80/doc/help.txt
+	*	1488605148	0
+	"	251	0
