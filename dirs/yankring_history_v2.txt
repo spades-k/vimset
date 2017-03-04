@@ -1,0 +1,8 @@
+import tensorflow,V
+limain,v
+module,v
+Plug  'Valloric/YouCompleteMe',V
+NERDTreeToggle,v
+Plugin 'VundleVim/Vundle.vim'Plugin 'Valloric/YouCompleteMe'Plugin 'Lokaltog/vim-powerline'Plugin 'scrooloose/nerdtree'Plugin 'Yggdroot/indentLine'Plugin 'jiangmiao/auto-pairs'Plugin 'tell-k/vim-autopep8'Plugin 'scrooloose/nerdcommenter',v
+filetype offset rtp+=~/.vim/bundle/Vundle.vimcall vundle#begin()Plugin 'VundleVim/Vundle.vim'Plugin '你的插件'call vundle#end()filetype plugin indent on,v
+2curl -O https://raw.githubusercontent.com/vince67/v7_config/master/vim.sh,v
